@@ -1,4 +1,4 @@
-# Advanced Regression Assignment
+# Deep Learning Assignment - melanoma
 > This repository holds code to create a Convolutional Neural Network for  Deep Learning Assignment - Melanoma Detection.
 
 
